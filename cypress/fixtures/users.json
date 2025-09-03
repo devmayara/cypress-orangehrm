@@ -6,5 +6,12 @@
     "invalidUser": {
         "username": "UsuarioInvalido",
         "password": "senhaErrada"
+    },
+    "newUser": {
+        "username": "testuser",
+        "password": "Test123!",
+        "employeeName": "John Smith Silvas",
+        "firstName": "John",
+        "lastName": "Silvas"
     }
 }
